@@ -1,9 +1,10 @@
-SpaceShip game
+# SpaceShip game
 
-Install pygame by your terminal
+Install pygame on your terminal
 # Windows
 ```bash
 pip install pygame
+```
 # Mac
 ```bash
 pip3 install pygame
