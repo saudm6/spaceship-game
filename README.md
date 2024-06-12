@@ -10,17 +10,17 @@ pip install pygame
 pip3 install pygame
 ```
 # Controls for Yellow Spaceship (Left side)
-W = Up
-A = Left
-S = Down
-D = Right
-Space = Shoot
+W = Up <br>
+A = Left <br>
+S = Down <br>
+D = Right <br>
+Space = Shoot <br>
 
 # Controls for Red Spaceship (Red side)
-Up (arrow) = Up
-Left (arrow)= Left
-Down (arrow)= Down
-Right (arrow)= Right
-Right Control = Shoot
+Up (arrow) = Up <br>
+Left (arrow)= Left <br>
+Down (arrow)= Down <br>
+Right (arrow)= Right <br>
+Right Control = Shoot <br>
 
 Have Fun !!!
